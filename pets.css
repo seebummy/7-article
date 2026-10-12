@@ -1,0 +1,41 @@
+html {
+background-color: burlywood;
+font-family: "Crimson Pro", serif;
+
+}
+
+ul{
+margin: 0px;
+
+}
+
+
+a{
+color: blue;
+
+}
+
+.site-heading {
+    margin: 0px;
+    margin-bottom: 4px;
+}
+
+.tag-line {
+margin: 0%;
+margin-bottom: 10px;
+
+}
+
+.header-nav {
+background-color: aqua;
+padding: 10px;
+}
+
+.main-content {
+background-color: pink;
+padding: 10px;
+}
+
+.site-footer{
+padding: 10px;
+}
