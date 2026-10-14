@@ -23,9 +23,15 @@ background-color: chocolate;
 
 .callout {
     background-color: salmon;
+    color: purple;
+}
+
+.divider {
+    color: black;
 }
 
 .footer {
 background-color: aquamarine
 
 }
+
