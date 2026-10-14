@@ -1,0 +1,31 @@
+html {
+background-color: burlywood;
+
+}
+
+.wrapper {
+max-width: 600px;
+margin: 0px auto;
+}
+
+.site-header {
+background-color: brown;
+
+}
+
+.site-main {
+background-color: chocolate;
+
+}
+.article-section {
+    background-color: orange;
+}
+
+.callout {
+    background-color: salmon;
+}
+
+.footer {
+background-color: aquamarine
+
+}
